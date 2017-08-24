@@ -1,1 +1,2 @@
 # kanjanimap
+# KanjaniMap
